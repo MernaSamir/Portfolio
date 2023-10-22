@@ -42,7 +42,7 @@ export default function Header() {
           <div className="brand">
             <a href="#hero">
               <h1>
-                <span>M</span>irna <span>S</span>amir
+                <span>M</span>irna <span>S</span>amir <span>M</span>osaad
               </h1>
             </a>
           </div>
