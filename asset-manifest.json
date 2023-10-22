@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.493f18fc.css",
+    "main.js": "/static/js/main.4d9e2c4b.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/me.png": "/static/media/me.3039b62b42c6071e29cf.png",
+    "static/media/eden-verve.png": "/static/media/eden-verve.9ea029355653d1fddb00.png",
+    "static/media/hero-bg.png": "/static/media/hero-bg.94e20543af0c86d10424.png",
+    "static/media/more-world.png": "/static/media/more-world.4ebe9aafaf4fcdd70601.png",
+    "static/media/xena.png": "/static/media/xena.1f160246d1da1fd7dece.png",
+    "static/media/github.svg": "/static/media/github.d2b3df3aa937f8eea052c398de871b95.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.dcb8b474b561ff44abecf47503f8efda.svg",
+    "static/media/insta.svg": "/static/media/insta.26314ce1945e9f08ed1469cf977d9ce9.svg",
+    "index.html": "/index.html",
+    "main.493f18fc.css.map": "/static/css/main.493f18fc.css.map",
+    "main.4d9e2c4b.js.map": "/static/js/main.4d9e2c4b.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.493f18fc.css",
+    "static/js/main.4d9e2c4b.js"
+  ]
+}
